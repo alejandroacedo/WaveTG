@@ -1,4 +1,4 @@
-# WaveTG
+# WaveTG Tool
 New version of MRTG developed in Python using Wavelets
 
 USE INSTRUCTIONS OF THE EXAMPLE: 
